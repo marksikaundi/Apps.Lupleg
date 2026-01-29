@@ -140,11 +140,57 @@ export default function DeeplyTermsPage() {
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
-              10. Contact Us
+              10. Refund Policy
+            </h2>
+            <p>
+              Deeply is provided free of charge. Since there are no paid
+              features or in-app purchases, no refunds are applicable. This is
+              consistent with Google Play Store policies for free applications.
+            </p>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
+              11. Third-Party Links
+            </h2>
+            <p>
+              Deeply may contain links to external websites or services. We are
+              not responsible for the content, privacy practices, or terms of
+              these third-party sites. Your use of third-party services is
+              governed by their own terms and policies.
+            </p>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
+              12. Severability
+            </h2>
+            <p>
+              If any part of these Terms of Service is found to be invalid or
+              unenforceable, the remaining parts will continue to be valid and
+              enforceable to the fullest extent permitted by law.
+            </p>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
+              13. Entire Agreement
+            </h2>
+            <p>
+              These Terms of Service constitute the entire agreement between you
+              and Lupleg Apps regarding your use of Deeply and supersede all
+              prior agreements and understandings.
+            </p>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
+              14. Contact Us
             </h2>
             <p>
               If you have questions about these Terms of Service, please contact
-              us through the app or via email.
+              us at: support@luplegapps.com or through the contact form in the
+              app.
             </p>
           </section>
 

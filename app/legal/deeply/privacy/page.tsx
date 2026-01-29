@@ -148,22 +148,47 @@ export default function DeeplyPrivacyPage() {
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
-              9. Contact Us
+              9. Children's Privacy
             </h2>
             <p>
-              If you have any questions about this Privacy Policy or your data,
-              please contact us through the app or viathe bottom of this Privacy
-              Policy.
+              Deeply is not intended for children under the age of 13. We do not
+              knowingly collect personal information from children under 13. If
+              we become aware that a child under 13 has provided us with
+              personal data, we will take steps to delete such information
+              immediately.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
-              6. Contact Us
+              10. Third-Party Services
             </h2>
             <p>
-              If you have any questions about this Privacy Policy, please
-              contact us by visiting our App or sending us an email.
+              Deeply does not integrate with third-party analytics services,
+              advertising networks, or tracking tools. We do not share your data
+              with any third parties.
+            </p>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
+              11. International Data Transfers
+            </h2>
+            <p>
+              Your information may be transferred to, stored in, and processed
+              in countries other than your country of residence. These countries
+              may have data protection laws that differ from your home country.
+            </p>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-xl font-semibold text-black dark:text-white mb-4">
+              12. Contact Us
+            </h2>
+            <p>
+              If you have any questions about this Privacy Policy or your data,
+              please contact us at: support@luplegapps.com or through the
+              contact form in the app.
             </p>
           </section>
 
