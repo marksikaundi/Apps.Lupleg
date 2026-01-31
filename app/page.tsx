@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 interface App {
   id: string;
   name: string;
@@ -129,6 +131,12 @@ export default function Home() {
 
                 {/* Action buttons */}
                 <div className="flex gap-3">
+                  <Link
+                    href={`/legal/${app.id}`}
+                    className="flex-1 px-4 py-3 rounded-lg bg-blue-600 text-white text-sm font-medium hover:bg-blue-700 transition-all duration-200 text-center"
+                  >
+                    Details
+                  </Link>
                   <a
                     href={app.links.terms}
                     className="flex-1 px-4 py-3 rounded-lg bg-zinc-100 dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 text-sm font-medium hover:bg-blue-600 hover:text-white dark:hover:bg-blue-600 transition-all duration-200 text-center"
